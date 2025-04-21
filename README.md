@@ -9,7 +9,5 @@ A hybrid AI system for sleep posture monitoring and apnea/snoring detection usin
 - Knowledge distillation implementation
 
 ## Usage
-1. Set data paths in `your_script.py`
-2. Run analysis:
-```bash
-python your_script.py
+1. Set data paths in `smart_pillow_system.ipynb`
+2. Run analysis
