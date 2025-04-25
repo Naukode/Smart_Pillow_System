@@ -5,7 +5,7 @@ A hybrid AI system for sleep posture monitoring and apnea/snoring detection usin
 ## Features
 - Time-frequency domain analysis
 - Pressure distribution visualization
-- PillowNEt (vs. LSTM and SVM)
+- PillowNET (vs. LSTM and SVM)
 - Knowledge distillation implementation
 
 ## Usage
